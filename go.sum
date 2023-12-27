@@ -7,6 +7,8 @@ github.com/cespare/xxhash/v2 v2.1.1 h1:6MnRN8NT7+YBpUIWxHtefFZOKTAPgGjpQSxqLNn0+
 github.com/cpuguy83/go-md2man/v2 v2.0.2 h1:p1EgwI/C7NhT0JmVkwCD2ZBK8j4aeHQX2pMHHBfMQ6w=
 github.com/daoleno/uniswap-sdk-core v0.1.5 h1:VlU6NXnJBJ75D3GmX01CGIEMoiizXlu9v+jSEj26lhM=
 github.com/daoleno/uniswap-sdk-core v0.1.5/go.mod h1:OV1Kvws5JShxPz3qFpjpkuZB4gdebRpqm/AcYMZ7TZQ=
+github.com/daoleno/uniswapv3-sdk v0.4.0 h1:NiJndjRydAojYgi9Wd/291fB4Nwo4IQ24mLAldGuaZs=
+github.com/daoleno/uniswapv3-sdk v0.4.0/go.mod h1:HHDH6r3Ini1o2UKbwsyUJyuBeDd10xUriGMpFIQGze0=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
